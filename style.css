@@ -3,6 +3,7 @@
   padding: 50px;
   margin: 100px;
   border: 10px solid rgb(70, 0, 0);
+  border-radius: 20px;
   background-color: rgb(179, 21, 21);
   text-align: center;
 }
